@@ -1,11 +1,7 @@
-First line: A short description of the project, used as a subtitle ot tagline
+SuperCapacitor Energy Storage Unit for a DCC decoder with voltage divider
 
-Remaining lines: a verbose changelog of what makes this "git version" different from the last.
-Use this space (in Markdown format) to describe the context and details of the changes.
-This section should be 5 to 20 lines of interesting detail; each version tab in the project will 
-display this text to help the reader understand why this version is differnet...
-
-The published project on the SPCoast.github.io website will
-include the relevant git commit messages as a terse, high level
-changelog, so don't replicate those messages here.
-
+This is an alternative to the PCR-KA which uses a zener diode and relies on the capacitors having 
+similar capacitance and internal resistance prevent accidental over-voltage.  This design uses
+a network of 10K resistors to equalize voltage across the capacitors.  the 1F supercaps in the
+PCR (Larry Puckett) design actually have too much storage capacity, so this design used .22F 
+supercaps (x6 as they are 2.5V devices).
