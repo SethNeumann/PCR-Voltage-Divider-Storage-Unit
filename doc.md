@@ -1,10 +1,3 @@
-### How to use this template:
+Voltage-Divider-Storage-Unit is comonly called a keep-alive but that's someone's trademark. It helps DCC decoders get over dead spots and dirty track, epecially important for sound equipped locos. I layed out a board for the Larry Puckett design but was urged to do this one as it's more reliable, long term.
 
-  1. Create a repo using this template, 
-  2. Create your project content using eagle...
-  3. Edit the other text files to describe your project
-  4. git add .
-  5. git commit -m "add to git"
-  6. git tag -a 1.0 -m 1.0
-  7. git push origin 1.0
-  
+Difference is use of a voltage divider network to protect 6 .22F 2.5V supercapacitors as opposed to 5 1F 2.7V protected by a zener.
