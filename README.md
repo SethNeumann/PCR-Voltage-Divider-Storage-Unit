@@ -1,7 +1,7 @@
 # REPO NAME: EagleTemplate-new
 ## License: Creative Commons Attribution-NonCommercial-ShareAlike
 
-Voltage-Divider-Storage-Unit is comonly calle d a keep-alive but that's someone's
+Voltage-Divider-Storage-Unit is commonly called a keep-alive but that's someone's
 trademark.  It helps DCC decoders get over dead spots and dirty track, epecially
 important for sound equipped locos.  I layed out a board for the Larry Puckett 
 design but was urged to do this one as it's more reliable, long term.
