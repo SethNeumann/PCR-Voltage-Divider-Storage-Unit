@@ -1,7 +1,7 @@
 title: Voltage-Divider-Storage-Unit 
 designer: Seth Neumann
-fabricated: Pick one of   No
-fab_date: YYYY-MM
-status: Pick one of   experimental
-publish: Pick one of  yes
-tags: [MRCS, eagle]
+fabricated: Yes
+fab_date: 2020-12
+status: released
+publish: yes
+tags: [MRCS, eagle, PCR]
