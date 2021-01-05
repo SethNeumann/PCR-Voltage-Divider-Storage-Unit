@@ -1,4 +1,4 @@
-# REPO NAME: EagleTemplate-new
+# REPO NAME: PCR-Voltage-Divider-Storage-Unit
 ## License: Creative Commons Attribution-NonCommercial-ShareAlike
 
 Voltage-Divider-Storage-Unit is commonly called a keep-alive but that's someone's
